@@ -45,12 +45,13 @@ Here's another traditional matching problem, in a similar vein, with some more c
 
 | Problem | ★ | Solution |
 |--|--|--|
-| ★ [NACLO 2022/E. Sleeping in the Shade](https://www.nacloweb.org/resources/problems/2022/N2022-E.pdf) | 1.5 | [Solution](https://www.nacloweb.org/resources/problems/2022/N2022-ES.pdf) |
-| [NACLO 2021/C. Versatile Verb](https://www.nacloweb.org/resources/problems/2021/N2021-C.pdf) | 2 | [Solution](https://www.nacloweb.org/resources/problems/2021/N2021-CS.pdf) |
-| [NACLO 2011/B. Mix Up on the Farm](https://www.nacloweb.org/resources/problems/2011/B.pdf) | 2 | [Solution](https://www.nacloweb.org/resources/problems/2011/BS.pdf) |
-| [NACLO 2020/B. A Cat in a Hat](https://www.nacloweb.org/resources/problems/2020/N2020-B.pdf) | 2.5 | [Solution](https://www.nacloweb.org/resources/problems/2020/N2020-BS.pdf) |
+| ★ [NACLO 2022/E. Sleeping in the Shade](https://naclo.org/resources/problems/2022/N2022-E.pdf) | 1.5 | [Solution](https://naclo.org/resources/problems/2022/N2022-ES.pdf) |
+| [NACLO 2021/C. Versatile Verb](https://naclo.org/resources/problems/2021/N2021-C.pdf) | 2 | [Solution](https://naclo.org/resources/problems/2021/N2021-CS.pdf) |
+| [NACLO 2011/B. Mix Up on the Farm](https://naclo.org/resources/problems/2011/B.pdf) | 2 | [Solution](https://naclo.org/resources/problems/2011/BS.pdf) |
+| [NACLO 2020/B. A Cat in a Hat](https://naclo.org/resources/problems/2020/N2020-B.pdf) | 2.5 | [Solution](https://naclo.org/resources/problems/2020/N2020-BS.pdf) |
 | ★ [UKLO 2023/1/6. Albanian](https://drive.google.com/file/d/1R0W5zOBqwqBhgXEJ4Ag_CvTNjSahxRx6/view?usp=share_link) | 2.5 | [Solution](https://drive.google.com/file/d/1R0W5zOBqwqBhgXEJ4Ag_CvTNjSahxRx6/view?usp=share_link) |
-| ★ [NACLO 2018/I. A Menya Puzzle](https://www.nacloweb.org/resources/problems/2018/N2018-I.pdf) | 2.5 | [Solution](https://www.nacloweb.org/resources/problems/2018/N2018-IS.pdf) |
-| [NACLO 2014/I. To play or not to play](https://www.nacloweb.org/resources/problems/2014/N2014-I.pdf) | 3 | [Solution](https://www.nacloweb.org/resources/problems/2014/N2014-IS.pdf) |
-| [NACLO 2018/M. Quests and Requests in Nivkh](https://www.nacloweb.org/resources/problems/2018/N2018-M.pdf) | 4 | [Solution](https://www.nacloweb.org/resources/problems/2018/N2018-M.pdf) |
-| [NACLO 2015/O. Do-This-Do-That](https://www.nacloweb.org/resources/problems/2015/N2015-O.pdf) | 5 | [Solution](https://www.nacloweb.org/resources/problems/2015/N2015-OS.pdf) |
+| ★ [NACLO 2018/I. A Menya Puzzle](https://naclo.org/resources/problems/2018/N2018-I.pdf) | 2.5 | [Solution](https://naclo.org/resources/problems/2018/N2018-IS.pdf) |
+| [NACLO 2014/I. To play or not to play](https://naclo.org/resources/problems/2014/N2014-I.pdf) | 3 | [Solution](https://naclo.org/resources/problems/2014/N2014-IS.pdf) |
+| [NACLO 2018/M. Quests and Requests in Nivkh](https://naclo.org/resources/problems/2018/N2018-M.pdf) | 4 | [Solution](https://naclo.org/resources/problems/2018/N2018-MS.pdf) |
+| [NACLO 2015/O. Do-This-Do-That](https://naclo.org/resources/problems/2015/N2015-O.pdf) | 5 | [Solution](https://naclo.org/resources/problems/2015/N2015-OS.pdf) |
+
